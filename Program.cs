@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Tsaru {
+    class Program  {
+        static void Main()
+        {
+            System.Console.WriteLine("Hi there");
+            System.Console.WriteLine("We are wathing you!");
+            Form.GetForm();
+            Console.ReadLine();
+        }
+      
+    }
+}
